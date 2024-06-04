@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivendra Keshari</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Q-learn(3-d game model )](https://ml-q-learn.vercel.app/)
+- 🔭 I’m currently working on [ Codev] )](https://ml-q-learn.vercel.app/)
 
 - 🌱 I’m currently learning **react node tailwind Mongodb css javascript css figma git**
 
