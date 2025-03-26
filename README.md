@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react node tailwind Mongodb css javascript css figma git**
 
-- 🔭 I’m currently working on [Swiggy_clone](https://swiggy-weld.vercel.app/)
+- 🔭 I’m currently working on [Swiggy_clone](https://ticket-ease-frontend-apx2.vercel.app/)
 
 - 💬 Ask me about **react node tailwind Mongodb css javascript css figma git**
 
