@@ -20,6 +20,10 @@
 <a href="https://fb.com/shivendra keshari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivendra keshari" height="30" width="40" /></a>
 <a href="https://instagram.com/shivendra.keshari1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivendra.keshari1" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/shivendra_keshari11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivendra1" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/shivendra_keshari11/practice/" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="shivendra1" height="30" width="40" />
+</a>
+
 </p>
 
 <a href="https://wakatime.com/@shivendra"><embed src="https://wakatime.com/share/@018ec211-d67b-4334-82c8-fa29e2e3505b/58a604d2-464f-4a65-8fc3-35c5c433e0ed.svg"></embed></a>
