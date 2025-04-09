@@ -21,7 +21,7 @@
 <a href="https://instagram.com/shivendra.keshari1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivendra.keshari1" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/shivendra_keshari11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivendra1" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/shivendra_keshari11/practice/" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="shivendra1" height="30" width="40" />
+  <img align="center" src="https://www.geeksforgeeks.org/user/shivendrakp4ws/" alt="shivendra1" height="30" width="40" />
 </a>
 
 </p>
