@@ -25,9 +25,15 @@
 </a>
 
 </p>
+<h3 align="left">🔥 GitHub Streak:</h3>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivendra-11&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=Shivendra-11&theme=highcontrast&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
 <a href="https://wakatime.com/@shivendra"><embed src="https://wakatime.com/share/@018ec211-d67b-4334-82c8-fa29e2e3505b/58a604d2-464f-4a65-8fc3-35c5c433e0ed.svg"></embed></a>
 
 <h3 align="left">Languages and Tools:</h3>
