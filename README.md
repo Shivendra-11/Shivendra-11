@@ -87,10 +87,5 @@
 
 ---
 
-# 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Shivendra-11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
 # 👀 Profile Visits
 [![](https://visitcount.itsvg.in/api?id=Shivendra-11&icon=3&color=0)](https://visitcount.itsvg.in)
