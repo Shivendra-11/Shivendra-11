@@ -45,14 +45,16 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Shivendra-11&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" 
+  <img
+    src="https://streak-stats.demolab.com?user=Shivendra-11&theme=highcontrast&hide_border=true"
     alt="GitHub Streak"
+    onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/demo.svg';"
   />
 </p>
+
 
 
 ---
