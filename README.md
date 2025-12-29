@@ -46,9 +46,8 @@
 ---
 
 # 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivendra-11&theme=highcontrast&hide_border=true" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivendra-11&theme=highcontrast)
+
 
 ---
 
