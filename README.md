@@ -46,7 +46,13 @@
 ---
 
 # 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivendra-11&theme=highcontrast)
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Shivendra-11&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" 
+    alt="GitHub Streak"
+  />
+</p>
 
 
 ---
